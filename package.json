@@ -23,7 +23,7 @@
 	},
 	"homepage": "https://github.com/TeleMediaCC/object-set-es#readme",
 	"dependencies": {
-		"lodash": "^4.17.21",
+		"lodash-es": "^4.17.21",
 		"object-hash": "^3.0.0"
 	},
 	"devDependencies": {
