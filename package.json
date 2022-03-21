@@ -1,6 +1,6 @@
 {
 	"name": "object-set-es",
-	"version": "1.0.2",
+	"version": "2.0.0",
 	"type": "module",
 	"description": "Allow users to manage sets of objects using deep comparisons of it's elements rather than using reference comparisons",
 	"main": "index.js",
