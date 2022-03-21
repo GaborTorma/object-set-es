@@ -1,6 +1,6 @@
 # Forked
 
-Original release: [keithlee96/object-set-js](https://github.com/keithlee96/object-set-es-js)
+Original release: [keithlee96/object-set-js](https://github.com/keithlee96/object-set-js)
 
 # Object Set
 
