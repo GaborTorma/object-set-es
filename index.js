@@ -1,5 +1,5 @@
-import cloneDeep from 'lodash/cloneDeep.js';
-import isEqual from 'lodash/isEqual.js';
+import cloneDeep from 'lodash-es/cloneDeep.js';
+import isEqual from 'lodash-es/isEqual.js';
 import objectHash from 'object-hash';
 import assert from 'assert';
 /* eslint-disable no-restricted-syntax */
