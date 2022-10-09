@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/TeleMediaCC/object-set-es.git"
+		"url": "git+https://github.com/GaborTorma/object-set-es.git"
 	},
 	"keywords": [
 		"set",
@@ -19,9 +19,9 @@
 	"author": "GaborTorma",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/TeleMediaCC/object-set-es/issues"
+		"url": "https://github.com/GaborTorma/object-set-es/issues"
 	},
-	"homepage": "https://github.com/TeleMediaCC/object-set-es#readme",
+	"homepage": "https://github.com/GaborTorma/object-set-es#readme",
 	"dependencies": {
 		"lodash-es": "^4.17.21",
 		"object-hash": "^3.0.0"
